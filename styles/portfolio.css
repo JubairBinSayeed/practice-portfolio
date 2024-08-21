@@ -1,0 +1,35 @@
+/*  Common Shared Styles */
+body{
+    font-family: "Open Sans", sans-serif;
+}
+.color-primary{
+    color: rgb(253, 110, 10)   
+}
+/*  Nav related styles  */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+nav{
+    display: flex;
+}
+#nav-title{
+    display: flex;
+    font-size: 45px;
+    font-weight: 800;
+}
+
+nav > ul{
+    display: flex;
+}
+
+nav li{
+    list-style: none;
+    margin-right: 50px;
+}
+.btn-primary{
+    border-radius: 5px;
+    background-color: rgb(253, 110, 10);
+}
+nav a {
+    text-decoration: none;
+    color: rgb(71, 71, 71);
+}
+
