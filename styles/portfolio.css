@@ -152,4 +152,11 @@ main{
 }
 .skills-description{
     padding: 30px;
+} 
+
+/* resume section styles  */
+.resume-column-title{
+    color: #474747;
+    font-size: 30px;
+    font-weight: 700;
 }
