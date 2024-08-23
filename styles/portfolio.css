@@ -128,4 +128,13 @@ main{
 
 .info-title{
     color: #474747;
+    font-weight: 100;
+} 
+
+.info-description{
+    font-weight: bold;
+} 
+
+#what-I-do-description{
+    padding: 30px 150px;
 }
