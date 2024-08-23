@@ -134,7 +134,22 @@ main{
 .info-description{
     font-weight: bold;
 } 
-
+/* what I do related styles  */
 #what-I-do-description{
     padding: 30px 150px;
+} 
+
+.skills-container{
+    display: flex;
+}
+.skill{
+    gap: 24px;
+    margin-left: 10px;
+    border-radius: 4px;
+    padding: 30px;
+    box-shadow: 1px 1px 1px 1px #181818;
+    /* border: 1px solid #181818; */
+}
+.skills-description{
+    padding: 30px;
 }
